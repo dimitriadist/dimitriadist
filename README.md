@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimitriadist
 - 👀 I’m interested in modeling and simulation of traportation phenomena 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that will offer hands on experience in fluid mechanics.
+- 💞️ I’m looking for projects that will offer hands on experience in fluid mechanics.
 - 📫 How to reach me (coming soon)
